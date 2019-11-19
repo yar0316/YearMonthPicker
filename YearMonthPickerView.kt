@@ -1,4 +1,4 @@
-package com.yar0316.alarmapp.util
+package com.yar0316.yearmonthpicker.util
 
 import android.content.Context
 import android.graphics.Rect
@@ -10,7 +10,7 @@ import android.widget.NumberPicker
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.yar0316.alarmapp.R
+import com.yar0316.yearmonthpicker.R
 import java.util.*
 
 private var MIN_YEAR = 2000

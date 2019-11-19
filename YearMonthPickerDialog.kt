@@ -1,4 +1,4 @@
-package com.yar0316.alarmapp.util
+package com.yar0316.yearmonthpicker.util
 
 /**
  * Kotlinのカスタムピッカーダイアログ

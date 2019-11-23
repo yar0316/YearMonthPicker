@@ -1,9 +1,9 @@
-package com.yar0316.yearmonthpicker.util
+package com.yar0316.yearmonthpicker
 
 /**
  * Kotlinのカスタムピッカーダイアログ
  * 表示するのは年月のみ選択のPicker
- * {@link MonthYearPickerView}とセットで使用
+ * MonthYearPickerViewとセットで使用
  * @author yar0316
  */
 import android.content.Context

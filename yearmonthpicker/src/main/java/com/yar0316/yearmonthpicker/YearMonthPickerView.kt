@@ -1,16 +1,9 @@
-package com.yar0316.yearmonthpicker.util
+package com.yar0316.yearmonthpicker
 
 import android.content.Context
-import android.graphics.Rect
-import android.util.AttributeSet
-import android.util.Log
 import android.view.LayoutInflater
-import android.widget.Button
 import android.widget.NumberPicker
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
-import com.yar0316.yearmonthpicker.R
 import java.util.*
 
 private var MIN_YEAR = 2000
